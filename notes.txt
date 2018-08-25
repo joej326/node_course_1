@@ -1,0 +1,9 @@
+SQL databases are seen as innefficient.
+- the guy goes over "normalization" which splits the table into MANY tables
+    and it becomes starts to require complex queries.
+- this is why NoSQL comes into play
+
+NoSQL is "non-relational" and is often used in big data applications.
+- it also support "non-structured data".
+- more flexible
+- uses object-based API's for interaction as opposed to straight SQL.
